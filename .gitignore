@@ -1,1 +1,3 @@
 venv
+admin/.dbdata
+admin/db.sqlite3
